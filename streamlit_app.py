@@ -4,4 +4,4 @@ st.title("Envecon 105 Case Study Dashboard")
 st.write("Author: Emily Xiao")
 
 with st.echo():
-  st.markdown("(./app/static/world_co2.png)")
+  st.markdown("(./static/world_co2.png)")
